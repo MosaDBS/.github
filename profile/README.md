@@ -6,7 +6,7 @@ Large databases make it possible to study rare outcomes, subgroups, and global p
 
 ## Our contacts
 
-**Maurice Zeegers** and **Anke Wesselius** from the Epidemiology department at Maastricht University brings a quantitative epidemiological perspective, studying how genetic, nutritional, therapeutic, and environmental determinants relate to disease outcomes.
+**Maurice Zeegers** and **Anke Wesselius** from the Epidemiology department at Maastricht University bring a quantitative epidemiological perspective, studying how genetic, nutritional, therapeutic, and environmental determinants relate to disease outcomes.
 
 ## Focus areas
 
