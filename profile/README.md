@@ -1,0 +1,40 @@
+MosaDBS (Maastricht Database Studies) is a hub at Maastricht University (UM) for **epidemiological studies based on large existing databases**: international cohort consortia, cancer registries, and pharmacovigilance databases.
+
+## Our approach
+
+Large databases make it possible to study rare outcomes, subgroups, and global patterns that single studies cannot address. MosaDBS builds reproducible, code-based analysis pipelines: data preparation, statistical analyses, and figures live in version-controlled repositories, so every result can be traced and rerun.
+
+## Our contact
+
+**Maurice Zeegers** from the Epidemiology department at Maastricht University brings a quantitative epidemiological perspective, studying how genetic, nutritional, therapeutic, and environmental determinants relate to disease outcomes.
+
+## Focus areas
+
+**(Disease) outcomes**
+
+- Oncology
+- Cardiovascular & Metabolic
+- Neurology & Psychiatry
+
+**Determinants**
+
+- Genetics
+- Genomics
+- Therapeutics
+- Nutrition
+- Environment
+
+## Repositories
+
+Our repositories are kept private, but here's an overview of what we're working on:
+
+- **GLOBOCAN** — global burden and mortality-to-incidence inequality of bladder cancer, based on GLOBOCAN 2024 (IARC/WHO)
+- **FAERS** — analyses of the FDA Adverse Event Reporting System
+- **BCPP** — Bladder Cancer Prognosis Programme
+- **BLEND** — BLadder cancer Epidemiology and Nutritional Determinants consortium
+- **MEFAB** — _description to follow_
+
+---
+
+📍 Maastricht University · 🔗 [meta-research.nl](https://meta-research.nl) · Sister hubs: [MosaROR](https://github.com/MosaROR) · [MosaLSR](https://github.com/MosaLSR)
+_Our repositories are supported by Claude Code. Our codebase consists of R, Python, and HTML_
