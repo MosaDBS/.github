@@ -4,9 +4,9 @@ MosaDBS (Maastricht Database Studies) is a hub at Maastricht University (UM) for
 
 Large databases make it possible to study rare outcomes, subgroups, and global patterns that single studies cannot address. MosaDBS builds reproducible, code-based analysis pipelines: data preparation, statistical analyses, and figures live in version-controlled repositories, so every result can be traced and rerun.
 
-## Our contact
+## Our contacts
 
-**Maurice Zeegers** from the Epidemiology department at Maastricht University brings a quantitative epidemiological perspective, studying how genetic, nutritional, therapeutic, and environmental determinants relate to disease outcomes.
+**Maurice Zeegers** and **Anke Wesselius** from the Epidemiology department at Maastricht University brings a quantitative epidemiological perspective, studying how genetic, nutritional, therapeutic, and environmental determinants relate to disease outcomes.
 
 ## Focus areas
 
